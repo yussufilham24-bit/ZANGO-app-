@@ -1,0 +1,9 @@
+{
+  "name": "ZANGO Mobility",
+  "short_name": "ZANGO",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00A651",
+  "description": "ZANGO Mobility - Taxi, Bajaji, Bodaboda, Delivery and Tours in Zanzibar"
+}
